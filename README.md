@@ -17,7 +17,7 @@ We are scrapping content from Wikipedia and hence we need this python package, o
 ```pip3 install wikipedia-api```
 
 # Template 
-The template i used can be found [here](https://docs.google.com/document/d/1a0C3AQ290uc0yFcVhLD36sj12mQdmv_VnSjh4WhnNvQ/edit#).
+The template i used can be found [here](https://docs.google.com/document/d/1a0C3AQ290uc0yFcVhLD36sj12mQdmv_VnSjh4WhnNvQ/edit?usp=sharing).
 
 # Running the project
 By default, the project use my template but feel free to change the tamplate and respective code. To run the code: 
